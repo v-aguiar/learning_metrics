@@ -26,13 +26,13 @@ O treinamento e a avaliação são realizados diretamente no Google Colab, facil
 
 A matriz de confusão é gerada após o treinamento para avaliar as previsões do modelo:
 
-![Matriz de Confusão](images/matriz_confusao.png)
+![image](https://github.com/user-attachments/assets/1a35b510-f840-4c94-9932-31beae704f38)
 
 ### Curva ROC
 
 A curva ROC e as respectivas áreas sob a curva (AUC) são plotadas para cada classe:
 
-![Curva ROC](images/curva_roc.png)
+![image](https://github.com/user-attachments/assets/2bba1c8c-2af3-46f6-8ad3-cf31ac5daa8a)
 
 ## Métricas Calculadas
 
@@ -43,6 +43,8 @@ As seguintes métricas de avaliação são geradas automaticamente:
 - **Recall (Sensibilidade)**: Mede a capacidade do modelo em identificar todos os positivos reais.
 - **F1 Score**: Média harmônica entre precisão e recall.
 - **Curva ROC e AUC**: Avalia a performance do modelo em diferentes thresholds.
+
+![image](https://github.com/user-attachments/assets/759f8291-2e92-4208-acfe-64351c908353)
 
 ## Contribuições
 
